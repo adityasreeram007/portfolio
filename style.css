@@ -146,7 +146,7 @@ div.progress-bar.pink{
    
     background-color:#1D2635;
     color:white;
-    width:4%;
+    width:6%;
 }
 .box{
     margin-top: 10%;
@@ -167,4 +167,7 @@ div.progress-bar.pink{
 }
 .tech{
     margin-top: 5%;
+}
+.copyright{
+    margin-top: 3%;
 }
